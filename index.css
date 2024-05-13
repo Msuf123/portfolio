@@ -4,7 +4,7 @@
     
 }
 body{
-    background-image: url('./Background.jpg');
+    background-image: url('./Assets/Background.jpg');
     background-repeat: no-repeat;
     background-size:100% 100vh;
 }
@@ -14,4 +14,7 @@ body{
    
     width: max-content;
     color: rgb(28, 212, 28);
+}
+.contactInfo img{
+   
 }
