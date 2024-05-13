@@ -1,0 +1,17 @@
+@font-face{
+    font-family: space-alien;
+    src: url('./shadow_of_the_deads/Shadow\ of\ the\ Deads.ttf');
+    
+}
+body{
+    background-image: url('./Background.jpg');
+    background-repeat: no-repeat;
+    background-size:100% 100vh;
+}
+
+.intro{
+    font-family: space-alien;
+   
+    width: max-content;
+    color: rgb(28, 212, 28);
+}
