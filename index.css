@@ -15,6 +15,13 @@ body{
     width: max-content;
     color: rgb(28, 212, 28);
 }
+.contactInfo{
+    
+    width: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .contactInfo img{
-   
+   width: 60px;
 }
