@@ -25,3 +25,8 @@ body{
 .contactInfo img{
    width: 60px;
 }
+.contactInfo img:hover{
+    transform: scale(1.08);
+    background-color: rgb(80, 77, 77);
+    border-radius: 5px;
+}
